@@ -1,0 +1,11 @@
+.stopwatch {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+  background: #7070a4;
+}
+
+button {
+  color: red;
+  padding: 1em;
+}
