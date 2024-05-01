@@ -1,0 +1,18 @@
+.team-pic {
+  height: 150px;
+  width: 150px;
+  background: #c8bcbc;
+  padding: 1em;
+  overflow: hidden;
+  /* justify-content: center; */
+  /* padding-top: 50%; */
+  border-radius: 10%;
+}
+
+.team-pic img {
+  margin-top: -90px;
+  margin-left: -20px;
+  /* object-fit: cover;*/
+  max-height: 180px;
+  max-width: 200px;
+}
